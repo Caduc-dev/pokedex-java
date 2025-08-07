@@ -29,3 +29,7 @@ A ideia é simular uma Pokédex interativa no terminal, onde o usuário pode bus
 -Logo após digite o seguinte comando: 
 
    java Pokedex.java
+
+## 🎮 Demonstração
+
+![Demonstração da Pokédex](https://ibb.co/nscwpxbG))
