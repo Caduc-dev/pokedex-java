@@ -32,4 +32,4 @@ A ideia é simular uma Pokédex interativa no terminal, onde o usuário pode bus
 
 ## 🎮 Demonstração
 
-![Demonstração da Pokédex](https://ibb.co/nscwpxbG)
+![Demonstração da Pokédex](https://images2.imgbox.com/82/28/6Jr9ez54_o.gif)
