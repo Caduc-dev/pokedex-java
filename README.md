@@ -33,3 +33,10 @@ A ideia é simular uma Pokédex interativa no terminal, onde o usuário pode bus
 ## 🎮 Demonstração
 
 ![Demonstração da Pokédex](https://images2.imgbox.com/82/28/6Jr9ez54_o.gif)
+
+## Em desenvolvimento
+
+Este projeto ainda pode receber melhorias, como:
+
+-Adicionar novos pokémons
+-Interface gráfica
